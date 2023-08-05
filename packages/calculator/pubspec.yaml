@@ -1,0 +1,10 @@
+name: calculator
+description: A sample command-line packages.
+version: 1.0.0
+publish_to: none
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+dependencies:
+  lints: ^2.0.1
